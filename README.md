@@ -1,2 +1,2 @@
 # cryptpass-website
-source code of http://cryptpass.altervista.org/ (old quick 2014 php project)
+source code of http://cryptpass.altervista.org/ (old quick 2012 php project)
