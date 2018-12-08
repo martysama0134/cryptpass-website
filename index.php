@@ -54,7 +54,7 @@
 					}
 				}
 				switch($action){case "send":send();break;default:change();break;} ?><br/>
-				Copyright &copy; 2014 CryptPass. All rights reserved.
+				Copyright &copy; 2012 CryptPass. All rights reserved.
 				<noscript>Se visualizzi questa parte significa che &egrave; giunta l'ora di aggiornar il browser.</noscript>
 			</div>
 		</div>
